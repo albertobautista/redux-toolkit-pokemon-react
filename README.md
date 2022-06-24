@@ -1,0 +1,1 @@
+# redux-toolkit-pokemon-react
